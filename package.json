@@ -1,20 +1,16 @@
 {
-  "name": "simplecrawler",
-  "description": "Very straightforward, event driven web crawler. Features a flexible queue interface and a basic cache mechanism with extensible backend.",
-  "version": "1.0.3",
-  "homepage": "https://github.com/cgiffard/node-simplecrawler",
-  "author": "Christopher Giffard <christopher.giffard@cgiffard.com>",
-  "maintainers": [
-    "Christopher Giffard <christopher.giffard@cgiffard.com>",
-    "Fredrik Ekelund <fredrik@fredrik.computer>"
-  ],
+  "name": "jes-spider",
+  "description": "A web crawler forked from simplecrawler.",
+  "version": "0.0.2",
+  "homepage": "https://github.com/tyolab/node-jes-spider",
+  "author": "Simplecrawler authors",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgiffard/node-simplecrawler.git"
+    "url": "git+https://github.com/tyolab/node-jes-spider.git"
   },
   "bugs": {
-    "url": "https://github.com/cgiffard/node-simplecrawler/issues"
+    "url": "https://github.com/tyolab/node-jes-spider/issues"
   },
   "keywords": [
     "simple",
